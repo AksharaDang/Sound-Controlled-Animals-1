@@ -1,0 +1,21 @@
+body{
+    background-color:gray
+}
+
+.start{
+    height: 30px;
+    width: 90px;
+    background-color: orange;
+    border-radius: 5px;
+}
+
+.copy_right_footer{
+text-align: center;
+background-color: white;
+padding: 15px;
+}
+
+.header_div{
+    background-color: lightgray;
+}
+
